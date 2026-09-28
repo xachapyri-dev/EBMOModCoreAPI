@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6706593d-9016-4fe6-a5e3-0c9200f7b9d5" width="72" height="72" alt="EBMO Mod Core API">
-  <h1>EBMO Mod Core API</h1>
+  <h1>ЭБМО Mod Core API</h1>
   <p>Базовый фреймворк и модульное API для создания модификаций к игре «Это была моя ошибка»</p>
   <p>
     <a href="http://k90052gj.beget.tech/projectPages/EBMOModAPI_projectPage/index.html"><strong>Официальный сайт документации</strong></a>
@@ -40,6 +40,6 @@ API инкапсулирует внутреннюю архитектуру дв�
 
 <div align="center">
   
-  <p>Это была моя ошибка by ZIWI, ЕБМО Mod Core API by Хачапури dev</p>
+  <p>Это была моя ошибка by ZIWI, ЭБМО Mod Core API by Хачапури dev</p>
 
 </div>
