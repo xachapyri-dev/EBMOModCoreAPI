@@ -1,3 +1,12 @@
+<p>
+    <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-6000.0%2B-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity 6"></a>
+    <a href="https://github.com/BepInEx/BepInEx"><img src="https://img.shields.io/badge/BepInEx-5.4%2B-2563eb?style=for-the-badge" alt="BepInEx 5.4+"></a>
+    <a href="https://github.com/pardeike/Harmony"><img src="https://img.shields.io/badge/Harmony-2.x-d97706?style=for-the-badge" alt="Harmony"></a>
+    <img src="https://img.shields.io/badge/C%23-.NET_Standard_2.1-512bd4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <a href="http://k90052gj.beget.tech/projectPages/EBMOModAPI_projectPage/index.html"><img src="https://img.shields.io/badge/Документация-Онлайн-16a34a?style=for-the-badge" alt="Docs"></a>
+    <img src="https://img.shields.io/badge/Лицензия-MIT-4b5563?style=for-the-badge" alt="License">
+  </p>
+                
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6706593d-9016-4fe6-a5e3-0c9200f7b9d5" width="72" height="72" alt="EBMO Mod Core API">
   <h1>ЭБМО Mod Core API</h1>
